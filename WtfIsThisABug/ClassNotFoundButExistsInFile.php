@@ -1,5 +1,4 @@
 <?php
-declare(strict_types=1);
 /**
  * TEST 1 class is declared after object
  */
